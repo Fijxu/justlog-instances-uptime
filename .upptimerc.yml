@@ -33,6 +33,7 @@ status-website:
   cname: justloginstances.zzls.xyz
   baseUrl: /
   logoUrl: https://logs.zzls.xyz/favicon.ico
+  favicon: https://logs.zzls.xyz/favicon.ico
   name: Justlog Instances
   introTitle: "Justlog instances"
   introMessage: A list of JustLog instances and their uptime
