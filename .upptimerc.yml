@@ -1,6 +1,7 @@
 # Change these first
 owner: Fijxu # Your GitHub organization or username, where this repository lives
 repo: justlog-instances-uptime # The name of this repository
+user-agent: Fijxu/justlog-instances-uptime
 
 sites:
   - name: logs.zzls.xyz
