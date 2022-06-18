@@ -1,26 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Fijxu # Your GitHub organization or username, where this repository lives
+repo: justlog-instances-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: logs.zzls.xyz
+    url: https://logs.zzls.xyz
+  - name: logs.ivr.fi
+    url: https://logs.ivr.fi
+  - name: logs.apulxd.ga
+    url: https://logs.apulxd.ga
+  - name: logs.nuuls.com
+    url: https://logs.nuuls.com
+  - name: logs.raccatta.cc
+    url: https://logs.raccatta.cc
+  - name: harambelogs.pl
+    url: http://harambelogs.pl/
+  - name: logs.magichack.xyz/
+    url: http://logs.magichack.xyz/
+  - name: logs.paauulli.me
+    url: https://logs.paauulli.me/
+  - name: vtlogs.moe
+    url: https://vtlogs.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /justlog-instances-uptime
+  logoUrl: https://logs.zzls.xyz/favicon.ico
+  name: Justlog Instances
+  introTitle: "Justlog instances ppL"
+  introMessage: A list of JustLog instances and their uptime
   navbar:
     - title: Status
       href: /
