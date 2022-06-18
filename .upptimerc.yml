@@ -15,10 +15,14 @@ sites:
     url: https://logs.raccatta.cc
   - name: harambelogs.pl
     url: http://harambelogs.pl/
-  - name: logs.magichack.xyz/
+  - name: logs.magichack.xyz
     url: http://logs.magichack.xyz/
   - name: logs.paauulli.me
     url: https://logs.paauulli.me/
+  - name: logs.supa.codes
+    url: https://logs.supa.codes/
+  - name: logs.fuchsty.de
+    url: https://logs.fuchsty.de/
   - name: vtlogs.moe
     url: https://vtlogs.moe
 
@@ -29,7 +33,7 @@ status-website:
   baseUrl: /
   logoUrl: https://logs.zzls.xyz/favicon.ico
   name: Justlog Instances
-  introTitle: "Justlog instances ppL"
+  introTitle: "Justlog instances"
   introMessage: A list of JustLog instances and their uptime
   navbar:
     - title: Status
