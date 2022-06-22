@@ -70,7 +70,8 @@
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-06-21": 1397,
+      "2022-06-22": 117,
+      "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 401
@@ -100,18 +101,19 @@
     "icon": "https://favicons.githubusercontent.com/harambelogs.pl",
     "slug": "harambelogs-pl",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.69%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "96.69%",
+    "uptimeMonth": "96.69%",
+    "uptimeYear": "96.69%",
     "time": 615,
     "timeDay": 109,
     "timeWeek": 615,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-22": 117,
+      "2022-06-21": 43
     }
   },
   {
