@@ -22,9 +22,9 @@
     "url": "https://logs.ivr.fi",
     "icon": "https://favicons.githubusercontent.com/logs.ivr.fi",
     "slug": "logs-ivr-fi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 439,
     "timeMonth": 439,
     "timeYear": 439,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "logs.apulxd.ga",
@@ -77,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/harambelogs.pl",
     "slug": "harambelogs-pl",
     "status": "down",
-    "uptime": "66.13%",
+    "uptime": "63.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "66.13%",
-    "uptimeMonth": "66.13%",
-    "uptimeYear": "66.13%",
+    "uptimeWeek": "63.41%",
+    "uptimeMonth": "63.41%",
+    "uptimeYear": "63.41%",
     "time": 487,
     "timeDay": 104,
     "timeWeek": 487,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2022-06-23": 913,
+      "2022-06-23": 1217,
       "2022-06-22": 1440,
       "2022-06-21": 43
     }
