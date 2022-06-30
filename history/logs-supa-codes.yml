@@ -1,7 +1,7 @@
 url: https://logs.supa.codes/
-status: down
-code: 403
-responseTime: 38
-lastUpdated: 2022-06-30T11:42:42.802Z
+status: up
+code: 200
+responseTime: 596
+lastUpdated: 2022-06-30T11:47:49.676Z
 startTime: Sat Jun 18 2022 18:02:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
