@@ -1,15 +1,15 @@
 # Change these first
 owner: Fijxu # Your GitHub organization or username, where this repository lives
 repo: justlog-instances-uptime # The name of this repository
-user-agent: Fijxu/justlog-instances-uptime
+user-agent: Fijxu-justlog-instances-uptime
 
 sites:
   - name: logs.zzls.xyz
     url: https://logs.zzls.xyz
   - name: logs.ivr.fi
     url: https://logs.ivr.fi
-  - name: logs.apulxd.ga
-    url: https://logs.apulxd.ga
+#  - name: logs.apulxd.ga (Deprecated in favor of logs.paauulli.me)
+#   url: https://logs.apulxd.ga
 #  - name: logs.nuuls.com (Deprecated)
 #    url: https://logs.nuuls.com
   - name: logs.raccatta.cc
