@@ -14,8 +14,10 @@ sites:
 #    url: https://logs.nuuls.com
   - name: logs.raccatta.cc
     url: https://logs.raccatta.cc
-  - name: harambelogs.pl
-    url: https://harambelogs.pl/
+#  - name: harambelogs.pl
+#    url: https://harambelogs.pl/
+  - name: logs.zneix.eu
+    url: https://logs.zneix.eu/
   - name: logs.magichack.xyz
     url: https://logs.magichack.xyz/
   - name: logs.paauulli.me
