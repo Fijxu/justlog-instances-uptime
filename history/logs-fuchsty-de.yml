@@ -1,7 +1,7 @@
 url: https://logs.fuchsty.de/
-status: down
-code: 502
-responseTime: 571
-lastUpdated: 2022-08-22T23:16:18.574Z
+status: up
+code: 200
+responseTime: 543
+lastUpdated: 2022-08-23T17:24:02.665Z
 startTime: Sat Jun 18 2022 18:02:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
