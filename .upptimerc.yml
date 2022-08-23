@@ -18,7 +18,7 @@ sites:
 #    url: https://harambelogs.pl/
   - name: logs.zneix.eu
     url: https://logs.zneix.eu/
-  - name: justlog.kkx.one/
+  - name: justlog.kkx.one
     url: https://justlog.kkx.one/
   - name: logs.mmattbot.com
     url: https://logs.mmattbot.com/
