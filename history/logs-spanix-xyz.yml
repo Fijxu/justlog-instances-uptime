@@ -1,7 +1,7 @@
 url: https://logs.spanix.xyz/
-status: up
-code: 200
-responseTime: 101
-lastUpdated: 2022-11-24T05:33:15.449Z
+status: down
+code: 502
+responseTime: 298
+lastUpdated: 2022-11-24T20:37:48.789Z
 startTime: Thu Nov 24 2022 05:21:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
