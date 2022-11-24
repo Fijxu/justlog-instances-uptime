@@ -276,19 +276,19 @@
     "url": "https://logs.spanix.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.spanix.xyz.ico",
     "slug": "logs-spanix-xyz",
-    "status": "down",
-    "uptime": "96.65%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "96.65%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "96.65%",
-    "time": 169,
-    "timeDay": 169,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "45.33%",
+    "uptimeDay": "45.33%",
+    "uptimeWeek": "45.33%",
+    "uptimeMonth": "45.33%",
+    "uptimeYear": "45.33%",
+    "time": 146,
+    "timeDay": 146,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2022-11-24": 0
+      "2022-11-24": 7
     }
   }
 ]
