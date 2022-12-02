@@ -1,7 +1,7 @@
 url: https://logs.magichack.xyz/
-status: up
-code: 200
-responseTime: 177
-lastUpdated: 2022-12-02T14:04:45.544Z
+status: down
+code: 502
+responseTime: 21697
+lastUpdated: 2022-12-02T15:57:37.140Z
 startTime: Sat Jun 18 2022 17:19:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
