@@ -28,8 +28,9 @@ sites:
     url: https://logs.paauulli.me/
   - name: logs.supa.codes
     url: https://logs.supa.codes/
-  - name: logs.fuchsty.de
-    url: https://logs.fuchsty.de/
+    # Deprecated
+#  - name: logs.fuchsty.de
+#    url: https://logs.fuchsty.de/
   - name: vtlogs.moe
     url: https://vtlogs.moe
   - name: logs.spanix.xyz
