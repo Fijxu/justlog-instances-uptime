@@ -12,8 +12,9 @@ sites:
 #   url: https://logs.apulxd.ga
 #  - name: logs.nuuls.com (Deprecated)
 #    url: https://logs.nuuls.com
-  - name: logs.raccatta.cc
-    url: https://logs.raccatta.cc
+#   Not an actual justlog instance
+#  - name: logs.raccatta.cc
+#    url: https://logs.raccatta.cc
 #  - name: harambelogs.pl (Deprecated in favor of logs.zneix.eu)
 #    url: https://harambelogs.pl/
   - name: logs.zneix.eu
