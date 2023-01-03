@@ -25,8 +25,10 @@ sites:
     url: https://logs.mmattbot.com/
   - name: logs.magichack.xyz
     url: https://logs.magichack.xyz/
-  - name: logs.paauulli.me
-    url: https://logs.paauulli.me/
+  - name: logs.lucas19961.de
+    url: https://logs.lucas19961.de/
+#  - name: logs.paauulli.me
+#    url: https://logs.paauulli.me/
   - name: logs.supa.codes
     url: https://logs.supa.codes/
     # Deprecated
