@@ -36,6 +36,8 @@ sites:
     url: https://vtlogs.moe
   - name: logs.spanix.xyz
     url: https://logs.spanix.xyz/
+  - name: logs.2807.eu
+    url: https://logs.2807.eu
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
