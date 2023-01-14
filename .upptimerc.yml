@@ -36,8 +36,10 @@ sites:
 #    url: https://logs.fuchsty.de/
   - name: vtlogs.moe
     url: https://vtlogs.moe
-  - name: logs.spanix.xyz
-    url: https://logs.spanix.xyz/
+#  - name: logs.spanix.xyz (Deprecated in favor of logs.spanix.team)
+#    url: https://logs.spanix.xyz/
+  - name: logs.spanix.team
+    url: https://logs.spanix.team/
   - name: logs.2807.eu
     url: https://logs.2807.eu
     
