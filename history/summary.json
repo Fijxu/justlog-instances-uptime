@@ -8,7 +8,7 @@
     "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.45%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "95.48%",
     "time": 690,
     "timeDay": 55,
@@ -204,18 +204,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.lucas19961.de.ico",
     "slug": "logs-lucas19961-de",
     "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
+    "uptime": "99.80%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 603,
     "timeDay": 412,
     "timeWeek": 524,
     "timeMonth": 603,
     "timeYear": 603,
     "dailyMinutesDown": {
-      "2023-01-25": 50
+      "2023-01-25": 61
     }
   },
   {
@@ -248,10 +248,10 @@
     "url": "https://vtlogs.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vtlogs.moe.ico",
     "slug": "vtlogs-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 644,
@@ -260,6 +260,7 @@
     "timeMonth": 692,
     "timeYear": 644,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-08-02": 347,
       "2022-08-01": 79
     }
@@ -288,18 +289,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.2807.eu.ico",
     "slug": "logs-2807-eu",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.83%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 639,
     "timeDay": 486,
     "timeWeek": 585,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-01-25": 0,
+      "2023-01-25": 11,
       "2023-01-06": 33,
       "2023-01-05": 9
     }
