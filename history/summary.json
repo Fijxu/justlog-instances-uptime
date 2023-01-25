@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zzls.xyz.ico",
     "slug": "logs-zzls-xyz",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.44%",
-    "uptimeYear": "95.47%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "95.48%",
     "time": 690,
     "timeDay": 55,
     "timeWeek": 88,
@@ -203,9 +203,9 @@
     "url": "https://logs.lucas19961.de/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.lucas19961.de.ico",
     "slug": "logs-lucas19961-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,7 +214,9 @@
     "timeWeek": 524,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "logs.supa.codes",
