@@ -275,9 +275,9 @@
     "url": "https://logs.spanix.team/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.spanix.team.ico",
     "slug": "logs-spanix-team",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -286,7 +286,9 @@
     "timeWeek": 255,
     "timeMonth": 277,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-24": 0
+    }
   },
   {
     "name": "logs.2807.eu",
