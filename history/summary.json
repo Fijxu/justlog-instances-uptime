@@ -4,10 +4,10 @@
     "url": "https://logs.zzls.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/logs.zzls.xyz.ico",
     "slug": "logs-zzls-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "96.01%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.01%",
     "time": 664,
@@ -16,6 +16,7 @@
     "timeMonth": 178,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2023-02-24": 1,
       "2022-12-27": 71,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -276,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.spanix.team.ico",
     "slug": "logs-spanix-team",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "97.91%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
     "time": 262,
     "timeDay": 294,
     "timeWeek": 255,
     "timeMonth": 277,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 30
     }
   },
   {
