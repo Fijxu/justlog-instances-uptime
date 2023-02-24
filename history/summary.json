@@ -6,9 +6,9 @@
     "slug": "logs-zzls-xyz",
     "status": "down",
     "uptime": "96.00%",
-    "uptimeDay": "92.95%",
-    "uptimeWeek": "98.99%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "96.00%",
     "time": 700,
     "timeDay": 2610,
@@ -16,7 +16,7 @@
     "timeMonth": 829,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2023-02-24": 102,
+      "2023-02-24": 108,
       "2022-12-27": 71,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -276,19 +276,19 @@
     "url": "https://logs.spanix.team/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.spanix.team.ico",
     "slug": "logs-spanix-team",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.74%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "90.33%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.75%",
     "time": 874,
     "timeDay": 3264,
     "timeWeek": 2133,
     "timeMonth": 1023,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-02-24": 144
+      "2023-02-24": 139
     }
   },
   {
