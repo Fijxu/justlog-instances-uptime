@@ -96,18 +96,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zneix.eu.ico",
     "slug": "logs-zneix-eu",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.96%",
     "time": 520,
     "timeDay": 415,
     "timeWeek": 461,
     "timeMonth": 515,
     "timeYear": 520,
     "dailyMinutesDown": {
-      "2023-03-06": 0
+      "2023-03-07": 99,
+      "2023-03-06": 8
     }
   },
   {
