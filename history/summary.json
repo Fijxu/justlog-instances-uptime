@@ -233,9 +233,9 @@
     "url": "https://logs.lucas19961.de/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.lucas19961.de.ico",
     "slug": "logs-lucas19961-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -245,6 +245,7 @@
     "timeMonth": 621,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2023-04-26": 0,
       "2023-02-14": 56,
       "2023-02-12": 530,
       "2023-01-25": 99
