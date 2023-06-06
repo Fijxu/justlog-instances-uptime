@@ -41,7 +41,9 @@ sites:
   - name: logs.spanix.team
     url: https://logs.spanix.team/
   - name: logs.2807.eu
-    url: https://logs.2807.eu
+    url: https://logs.2807.eu/
+  - name: logs.jimmyboy.dev
+    url: https://logs.jimmyboy.dev/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
