@@ -1,7 +1,7 @@
 url: https://logs.zneix.eu/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-11T21:54:42.524Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2023-09-11T21:59:22.445Z
 startTime: 2022-08-21T22:05:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
