@@ -80,8 +80,8 @@
     "status": "down",
     "uptime": "96.28%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "41.54%",
-    "uptimeMonth": "63.30%",
+    "uptimeWeek": "41.52%",
+    "uptimeMonth": "63.29%",
     "uptimeYear": "95.48%",
     "time": 488,
     "timeDay": 0,
@@ -89,7 +89,7 @@
     "timeMonth": 494,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-11-08": 1359,
+      "2023-11-08": 1360,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -133,7 +133,7 @@
     "timeMonth": 1344,
     "timeYear": 834,
     "dailyMinutesDown": {
-      "2023-11-08": 1359,
+      "2023-11-08": 1361,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -287,11 +287,11 @@
     "url": "https://logs.mmattbot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.mmattbot.com.ico",
     "slug": "logs-mmattbot-com",
-    "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "62.62%",
-    "uptimeWeek": "68.55%",
-    "uptimeMonth": "92.76%",
+    "status": "down",
+    "uptime": "99.51%",
+    "uptimeDay": "62.59%",
+    "uptimeWeek": "68.74%",
+    "uptimeMonth": "92.81%",
     "uptimeYear": "99.40%",
     "time": 207,
     "timeDay": 199,
@@ -304,7 +304,7 @@
       "2023-11-06": 549,
       "2023-11-05": 696,
       "2023-11-04": 608,
-      "2023-11-03": 63
+      "2023-11-03": 43
     }
   },
   {
