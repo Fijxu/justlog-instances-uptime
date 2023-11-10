@@ -14,7 +14,7 @@
     "timeDay": 63,
     "timeWeek": 163,
     "timeMonth": 191,
-    "timeYear": 550,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2023-11-04": 264,
       "2023-10-27": 153,
@@ -65,7 +65,7 @@
     "timeDay": 996,
     "timeWeek": 689,
     "timeMonth": 554,
-    "timeYear": 664,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2023-10-25": 22,
       "2023-08-13": 16,
@@ -78,10 +78,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zneix.eu.ico",
     "slug": "logs-zneix-eu",
     "status": "down",
-    "uptime": "95.85%",
+    "uptime": "95.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.63%",
-    "uptimeMonth": "56.65%",
+    "uptimeWeek": "12.54%",
+    "uptimeMonth": "56.63%",
     "uptimeYear": "94.92%",
     "time": 488,
     "timeDay": 0,
@@ -89,7 +89,7 @@
     "timeMonth": 489,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-11-10": 1393,
+      "2023-11-10": 1402,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -135,7 +135,7 @@
     "timeMonth": 1337,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-11-10": 1393,
+      "2023-11-10": 1402,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
@@ -291,11 +291,11 @@
     "url": "https://logs.mmattbot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.mmattbot.com.ico",
     "slug": "logs-mmattbot-com",
-    "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "68.49%",
-    "uptimeWeek": "69.66%",
-    "uptimeMonth": "93.02%",
+    "status": "down",
+    "uptime": "99.53%",
+    "uptimeDay": "68.47%",
+    "uptimeWeek": "69.93%",
+    "uptimeMonth": "93.08%",
     "uptimeYear": "99.42%",
     "time": 215,
     "timeDay": 386,
@@ -308,7 +308,7 @@
       "2023-11-08": 575,
       "2023-11-07": 715,
       "2023-11-06": 549,
-      "2023-11-05": 105
+      "2023-11-05": 78
     }
   },
   {
@@ -326,7 +326,7 @@
     "timeDay": 116,
     "timeWeek": 176,
     "timeMonth": 174,
-    "timeYear": 619,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2022-12-09": 17,
       "2022-11-29": 46
