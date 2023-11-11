@@ -89,7 +89,7 @@
     "timeMonth": 489,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-11-11": 1260,
+      "2023-11-11": 1270,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -136,7 +136,7 @@
     "timeMonth": 1337,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-11-11": 1260,
+      "2023-11-11": 1270,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
       "2023-11-08": 1440,
@@ -293,12 +293,12 @@
     "url": "https://logs.mmattbot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.mmattbot.com.ico",
     "slug": "logs-mmattbot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "64.24%",
-    "uptimeWeek": "68.24%",
-    "uptimeMonth": "92.69%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "64.92%",
+    "uptimeWeek": "68.50%",
+    "uptimeMonth": "92.75%",
+    "uptimeYear": "99.40%",
     "time": 221,
     "timeDay": 346,
     "timeWeek": 250,
@@ -310,7 +310,7 @@
       "2023-11-09": 659,
       "2023-11-08": 575,
       "2023-11-07": 715,
-      "2023-11-06": 353
+      "2023-11-06": 327
     }
   },
   {
@@ -474,11 +474,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.jimmyboy.dev.ico",
     "slug": "logs-jimmyboy-dev",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 512,
     "timeDay": 244,
     "timeWeek": 229,
