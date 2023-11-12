@@ -89,7 +89,7 @@
     "timeMonth": 489,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-11-12": 417,
+      "2023-11-12": 439,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -126,7 +126,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/justlog.kkx.one.ico",
     "slug": "justlog-kkx-one",
     "status": "down",
-    "uptime": "71.58%",
+    "uptime": "71.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -137,7 +137,7 @@
     "timeMonth": 1320,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-11-12": 417,
+      "2023-11-12": 439,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -295,11 +295,11 @@
     "url": "https://logs.mmattbot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.mmattbot.com.ico",
     "slug": "logs-mmattbot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "64.68%",
-    "uptimeWeek": "67.59%",
-    "uptimeMonth": "92.54%",
+    "uptimeDay": "64.67%",
+    "uptimeWeek": "67.78%",
+    "uptimeMonth": "92.59%",
     "uptimeYear": "99.38%",
     "time": 221,
     "timeDay": 342,
@@ -313,7 +313,7 @@
       "2023-11-09": 659,
       "2023-11-08": 575,
       "2023-11-07": 715,
-      "2023-11-06": 122
+      "2023-11-06": 103
     }
   },
   {
