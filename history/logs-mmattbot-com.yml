@@ -1,7 +1,7 @@
 url: https://logs.mmattbot.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-12T12:42:13.651Z
+status: up
+code: 200
+responseTime: 377
+lastUpdated: 2023-11-12T13:14:12.094Z
 startTime: 2022-08-23T17:26:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
