@@ -78,7 +78,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zneix.eu.ico",
     "slug": "logs-zneix-eu",
     "status": "down",
-    "uptime": "95.14%",
+    "uptime": "95.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "54.40%",
@@ -89,7 +89,7 @@
     "timeMonth": 489,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2023-11-14": 427,
+      "2023-11-14": 438,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -139,7 +139,7 @@
     "timeMonth": 1343,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2023-11-14": 427,
+      "2023-11-14": 438,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
@@ -299,11 +299,11 @@
     "url": "https://logs.mmattbot.com/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.mmattbot.com.ico",
     "slug": "logs-mmattbot-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "61.50%",
-    "uptimeWeek": "67.48%",
-    "uptimeMonth": "92.52%",
+    "uptimeDay": "62.24%",
+    "uptimeWeek": "67.63%",
+    "uptimeMonth": "92.55%",
     "uptimeYear": "99.38%",
     "time": 239,
     "timeDay": 674,
@@ -317,7 +317,7 @@
       "2023-11-11": 519,
       "2023-11-10": 459,
       "2023-11-09": 659,
-      "2023-11-08": 295
+      "2023-11-08": 279
     }
   },
   {
