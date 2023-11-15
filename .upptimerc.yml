@@ -21,8 +21,8 @@ sites:
     url: https://logs.zneix.eu/
   - name: justlog.kkx.one
     url: https://justlog.kkx.one/
-  - name: logs.mmattbot.com
-    url: https://logs.mmattbot.com/
+#  - name: logs.mmattbot.com
+#    url: https://logs.mmattbot.com/
   - name: logs.magichack.xyz
     url: https://logs.magichack.xyz/
   - name: logs.lucas19961.de
