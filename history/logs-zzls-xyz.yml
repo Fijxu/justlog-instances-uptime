@@ -1,7 +1,7 @@
 url: https://logs.zzls.xyz
-status: down
-code: 502
-responseTime: 4363
-lastUpdated: 2024-01-07T03:12:39.268Z
+status: up
+code: 200
+responseTime: 40
+lastUpdated: 2024-01-07T03:22:53.809Z
 startTime: 2022-06-18T17:19:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
