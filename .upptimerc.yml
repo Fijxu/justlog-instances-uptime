@@ -48,10 +48,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: justloginstances.zzls.xyz
   baseUrl: /
-  logoUrl: https://logs.zzls.xyz/favicon.ico
-  favicon: https://logs.zzls.xyz/favicon.ico
+  logoUrl: https://logs.nadeko.net/favicon.ico
+  favicon: https://logs.nadeko.net/favicon.ico
   name: Justlog Instances
   introTitle: "Justlog instances"
   introMessage: A list of JustLog instances and their uptime
