@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 464,
     "dailyMinutesDown": {
-      "2024-02-23": 827,
+      "2024-02-23": 832,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
@@ -451,19 +451,19 @@
     "url": "https://logs.supa.codes/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.supa.codes.ico",
     "slug": "logs-supa-codes",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 161,
-    "timeWeek": 512,
-    "timeMonth": 572,
+    "time": 506,
+    "timeDay": 335,
+    "timeWeek": 511,
+    "timeMonth": 570,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 5
     }
   },
   {
