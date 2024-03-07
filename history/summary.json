@@ -6,9 +6,9 @@
     "slug": "logs-zzls-xyz",
     "status": "up",
     "uptime": "97.12%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "54.09%",
-    "uptimeMonth": "81.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "54.84%",
+    "uptimeMonth": "81.24%",
     "uptimeYear": "97.85%",
     "time": 607,
     "timeDay": 796,
@@ -16,7 +16,6 @@
     "timeMonth": 378,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-03-06": 5,
       "2024-03-03": 286,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -70,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zneix.eu.ico",
     "slug": "logs-zneix-eu",
     "status": "down",
-    "uptime": "75.93%",
+    "uptime": "75.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -81,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-03-06": 1423,
+      "2024-03-07": 53,
+      "2024-03-06": 1440,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
@@ -221,8 +221,7 @@
       "2023-03-21": 462,
       "2023-03-11": 1289,
       "2023-03-10": 1440,
-      "2023-03-09": 1440,
-      "2023-03-08": 1440
+      "2023-03-09": 1440
     }
   },
   {
@@ -467,17 +466,18 @@
     "slug": "logs-supa-codes",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "78.37%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "73.48%",
+    "uptimeWeek": "96.21%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.93%",
     "time": 510,
     "timeDay": 499,
     "timeWeek": 708,
     "timeMonth": 605,
     "timeYear": 519,
     "dailyMinutesDown": {
-      "2024-03-06": 311
+      "2024-03-07": 53,
+      "2024-03-06": 328
     }
   },
   {
