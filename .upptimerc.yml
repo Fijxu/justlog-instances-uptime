@@ -18,7 +18,7 @@ sites:
 #  - name: harambelogs.pl (Deprecated in favor of logs.zneix.eu)
 #    url: https://harambelogs.pl/
   - name: logs.zneix.eu
-    url: https://logs.zneix.eu/
+    url: http://logs.zneix.eu
   - name: justlog.kkx.one
     url: https://justlog.kkx.one/
 #  - name: logs.mmattbot.com
