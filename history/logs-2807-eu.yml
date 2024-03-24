@@ -1,7 +1,7 @@
 url: https://logs.2807.eu/
-status: up
-code: 200
-responseTime: 428
-lastUpdated: 2024-03-23T23:13:14.578Z
+status: down
+code: 502
+responseTime: 532
+lastUpdated: 2024-03-24T14:27:11.572Z
 startTime: 2023-01-03T22:26:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
