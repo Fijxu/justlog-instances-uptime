@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/logs.zzls.xyz.ico",
     "slug": "logs-zzls-xyz",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.53%",
@@ -82,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2024-04-26": 235,
+      "2024-04-26": 267,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
@@ -506,8 +506,8 @@
     "status": "up",
     "uptime": "93.32%",
     "uptimeDay": "98.05%",
-    "uptimeWeek": "77.93%",
-    "uptimeMonth": "16.31%",
+    "uptimeWeek": "78.25%",
+    "uptimeMonth": "16.39%",
     "uptimeYear": "87.71%",
     "time": 566,
     "timeDay": 10130,
@@ -570,11 +570,11 @@
     "url": "https://vtlogs.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vtlogs.moe.ico",
     "slug": "vtlogs-moe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 626,
     "timeDay": 536,
@@ -582,7 +582,7 @@
     "timeMonth": 590,
     "timeYear": 612,
     "dailyMinutesDown": {
-      "2024-04-26": 4
+      "2024-04-26": 0
     }
   },
   {
