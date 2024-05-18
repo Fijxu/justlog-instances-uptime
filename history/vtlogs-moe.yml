@@ -1,7 +1,7 @@
 url: https://vtlogs.moe
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2024-05-18T20:21:43.855Z
+status: down
+code: 502
+responseTime: 4683
+lastUpdated: 2024-05-18T20:38:22.166Z
 startTime: 2022-06-18T17:19:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
