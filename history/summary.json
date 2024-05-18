@@ -87,7 +87,7 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-05-18": 1363,
+      "2024-05-18": 1367,
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
@@ -531,7 +531,7 @@
     "uptime": "93.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.21%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "87.71%",
     "time": 579,
     "timeDay": 840,
@@ -594,19 +594,19 @@
     "url": "https://vtlogs.moe",
     "icon": "https://icons.duckduckgo.com/ip3/vtlogs.moe.ico",
     "slug": "vtlogs-moe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 1697,
-    "timeWeek": 948,
-    "timeMonth": 1311,
+    "timeDay": 1480,
+    "timeWeek": 918,
+    "timeMonth": 1292,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-05-18": 0
+      "2024-05-18": 4
     }
   },
   {
