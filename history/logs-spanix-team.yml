@@ -1,7 +1,7 @@
 url: https://logs.spanix.team/
-status: up
-code: 200
-responseTime: 86
-lastUpdated: 2024-05-18T23:12:36.017Z
+status: down
+code: 502
+responseTime: 169
+lastUpdated: 2024-05-19T04:14:37.159Z
 startTime: 2023-01-16T22:35:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
