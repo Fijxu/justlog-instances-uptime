@@ -1,7 +1,7 @@
 url: https://logs.lucas19961.de/
-status: up
-code: 200
-responseTime: 838
-lastUpdated: 2024-05-31T22:46:39.016Z
+status: down
+code: 503
+responseTime: 765
+lastUpdated: 2024-05-31T22:51:42.919Z
 startTime: 2023-01-03T22:45:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
