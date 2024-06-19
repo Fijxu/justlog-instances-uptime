@@ -1,7 +1,7 @@
 url: https://logs.jimmyboy.dev/
-status: up
-code: 200
-responseTime: 277
-lastUpdated: 2024-06-18T23:14:39.085Z
+status: down
+code: 502
+responseTime: 251
+lastUpdated: 2024-06-19T21:42:52.191Z
 startTime: 2023-06-06T01:48:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
