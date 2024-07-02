@@ -98,7 +98,7 @@
     "timeMonth": 0,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-07-02": 408,
+      "2024-07-02": 413,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
@@ -542,19 +542,19 @@
     "url": "https://logs.magichack.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.magichack.xyz.ico",
     "slug": "logs-magichack-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 106,
-    "timeWeek": 115,
-    "timeMonth": 139,
-    "timeYear": 168,
+    "timeDay": 102,
+    "timeWeek": 113,
+    "timeMonth": 138,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 5
     }
   },
   {
@@ -723,7 +723,7 @@
     "uptime": "96.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.47%",
+    "uptimeMonth": "52.46%",
     "uptimeYear": "95.98%",
     "time": 735,
     "timeDay": 511,
@@ -731,7 +731,7 @@
     "timeMonth": 705,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2024-07-02": 408,
+      "2024-07-02": 413,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
