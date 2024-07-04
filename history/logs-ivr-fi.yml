@@ -1,7 +1,7 @@
 url: https://logs.ivr.fi
-status: up
-code: 200
-responseTime: 661
-lastUpdated: 2024-07-03T23:16:25.007Z
+status: down
+code: 530
+responseTime: 624
+lastUpdated: 2024-07-04T15:10:01.361Z
 startTime: 2022-06-18T17:19:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
