@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "96.72%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.56%",
-    "uptimeMonth": "78.83%",
+    "uptimeWeek": "11.29%",
+    "uptimeMonth": "78.77%",
     "uptimeYear": "95.54%",
     "time": 500,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 648,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2024-08-07": 1213,
+      "2024-08-07": 1240,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-08-07": 1213,
+      "2024-08-07": 1240,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -409,7 +409,7 @@
     "uptime": "73.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.46%",
+    "uptimeMonth": "17.40%",
     "uptimeYear": "56.80%",
     "time": 566,
     "timeDay": 301,
@@ -417,7 +417,7 @@
     "timeMonth": 407,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2024-08-07": 1213,
+      "2024-08-07": 1240,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
@@ -588,9 +588,9 @@
     "url": "https://logs.magichack.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/logs.magichack.xyz.ico",
     "slug": "logs-magichack-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -599,7 +599,9 @@
     "timeWeek": 157,
     "timeMonth": 141,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-07": 0
+    }
   },
   {
     "name": "logs.lucas19961.de",
@@ -767,7 +769,7 @@
     "uptime": "96.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "97.55%",
+    "uptimeMonth": "97.61%",
     "uptimeYear": "94.25%",
     "time": 731,
     "timeDay": 519,
